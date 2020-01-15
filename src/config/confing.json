@@ -1,0 +1,7 @@
+{
+  "auth": [
+    "signInWithEmailAndPassword",
+    "createUserWithEmailAndPassword",
+    "SignInWithProvider"
+  ]
+}
